@@ -34,13 +34,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/P666R/wasserstoff-FullstackInternTask.git
+   git clone https://github.com/P666R/pinku-roy-wasserstoff-FullstackInternTask.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd wasserstoff-FullstackInternTask
+   cd pinku-roy-wasserstoff-FullstackInternTask
    ```
 
 3. Install the dependencies:
